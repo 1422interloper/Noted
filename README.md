@@ -29,7 +29,7 @@ Versions are `MAJOR.MINOR.PATCH` ([Semantic Versioning](https://semver.org)): MA
 
 ## How this was built
 
-Noted was built with a lot of help from Claude Code and some other OpenRouter sourced models via OpenCode as the chosen harness. I don't know much about Native App development so this was a nice project to start with and seeing as Pranshul's application is now archived I thought it would be perfect to learn with an app I utlise daily. As with
+Noted was built with a lot of help from Claude Code and some other OpenRouter sourced models via OpenCode as the chosen harness. I don't know much about Native App development so this was a nice project to start with and seeing as Pranshul's application is now archived I thought it would be perfect to learn with an app I utilise daily. As with
 all agentic codebases I suggest you perform your own reviews as deemed necessary and if something is amiss I welcome you to open an Issue so it can be sorted out. 
 
 ## Why not a fork
