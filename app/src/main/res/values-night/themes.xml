@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.Noted" parent="android:Theme.Material.NoActionBar" />
+</resources>

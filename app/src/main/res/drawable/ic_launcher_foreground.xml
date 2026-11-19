@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder adaptive-icon foreground (a page with text lines). Replace with final artwork. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#E8DEF8"
+        android:pathData="M38,32h24l10,10v34a2,2 0,0 1,-2 2H38a2,2 0,0 1,-2 -2V34a2,2 0,0 1,2 -2z" />
+    <path
+        android:fillColor="#B9A7DB"
+        android:pathData="M62,32l10,10H64a2,2 0,0 1,-2 -2z" />
+    <path
+        android:fillColor="#4A4458"
+        android:pathData="M42,50h24v3H42zM42,57h24v3H42zM42,64h16v3H42z" />
+</vector>

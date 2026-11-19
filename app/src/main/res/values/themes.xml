@@ -1,0 +1,4 @@
+<resources>
+    <!-- Window theme only; all in-app colour comes from the Compose MaterialTheme. -->
+    <style name="Theme.Noted" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

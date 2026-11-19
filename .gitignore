@@ -1,0 +1,23 @@
+# Gradle / build output
+.gradle/
+.kotlin/
+build/
+/captures
+.externalNativeBuild
+.cxx
+
+# Local machine config
+local.properties
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+
+# Signing material: never commit these
+*.jks
+*.keystore
+keystore.properties
+
+# OS
+.DS_Store
+Thumbs.db
